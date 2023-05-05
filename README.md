@@ -1,3 +1,5 @@
+#Contributed to this submission aling with Team 1.
+
 # Scribble Board
 Submission for A7-PClub-2 by Team 1 Aryans
 
